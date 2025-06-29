@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/kaveesha-ranathunga-62a04a284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://www.hackerrank.com/kaveesha%20ranathunga](https://www.hackerrank.com/profile/220507H_CSE22)" target="_blank">
+  <a href="https://www.hackerrank.com/profile/220507H_CSE22" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
