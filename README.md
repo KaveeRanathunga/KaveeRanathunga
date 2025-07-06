@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm a **Computer Science Engineering** undergraduate from Sri Lanka  
-- 👀 Interested in **Web Development** and **Creative UI/UX**
-- 🌱 Currently learning **React.js**, **Tailwind CSS**, **Node.js**, and **MongoDB**
+- 👀 Interested in **Web Development** and **Data Science**
+- 🌱 Currently learning **Flutter**, **Tailwind CSS**, **FastAPI**, and **DeepLearning**
 - 💬 Ask me about **Web Development**, **Java**, or **Python**
 - 📫 Reach me at: **priyanjithranathunga@gmail.com**
 
